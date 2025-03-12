@@ -78,7 +78,7 @@ body {
 }
 
 #tranding {
-  padding: 1.4rem 0;
+  padding: 6rem 0;
   margin-bottom: 20px
 }
 
@@ -179,6 +179,9 @@ body {
     left: 70% !important;
     transform: translateX(-70%) !important;
   }
+  .navbar {
+    min-height: 50px; /* Altezza ridotta su mobile */
+}
 }
 
 @media (max-width:450px) {
@@ -186,6 +189,9 @@ body {
     left: 80% !important;
     transform: translateX(-80%) !important;
   }
+  .navbar {
+    min-height: 50px; /* Altezza ridotta su mobile */
+}
 }
 
 @media (max-width:990px) {
@@ -193,6 +199,9 @@ body {
     left: 30% !important;
     transform: translateX(-30%) !important;
   }
+  .navbar {
+    min-height: 50px; /* Altezza ridotta su mobile */
+}
 }
 
 @media (max-width:450px) {
@@ -200,6 +209,9 @@ body {
     left: 20% !important;
     transform: translateX(-20%) !important;
   }
+  .navbar {
+    min-height: 50px; /* Altezza ridotta su mobile */
+}
 }
 
 .tranding-slider-control .slider-arrow {
@@ -241,7 +253,7 @@ body {
   object-fit: cover; 
 }
 .nav{
-    font-size: 1.6rem;
+    font-size: 0.5rem;
 }
 
 p.card-text{
@@ -262,3 +274,4 @@ footer{
   padding-left: 1.5rem;
   padding-right: 1.5rem;
 }
+
