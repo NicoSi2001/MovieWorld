@@ -274,4 +274,41 @@ footer{
   padding-left: 1.5rem;
   padding-right: 1.5rem;
 }
+/*.informazioni{
+  margin-top: 39px;
+  background-color:  #cc7af0;
+  display: flex;
+  min-height: 400px;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap:90px;
+}
 
+.image{
+  display:flex ;
+  height: 100%;
+  max-width: 100px;
+}
+
+
+.descrizione{
+
+  display:flex ;
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+  color: white;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.informations h1 {
+  margin: 0;  
+  padding: 0; 
+  display: inline-block; 
+}
+
+.badge {
+  display: inline-flex;
+  margin-right: 10px;*/
