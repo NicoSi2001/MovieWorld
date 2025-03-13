@@ -269,7 +269,13 @@ h5.card-title{
   color:black;
   padding: 1rem 0;
 }
-footer{
+.HomeFooter footer{
+  margin-top: 20px;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.HomeFooter footer{
   margin-top: 20px;
   padding-left: 1.5rem;
   padding-right: 1.5rem;
